@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+h1 {
+    color: rgb(9, 9, 9);
+}
+p{
+    color: rgb(19, 19, 19);
+    font-family: "Orbitron";
+}
+.calculadora{
+    background-color: #1E1E1E;
+    border: 4px solid  #0F5009;
+    width:200px ;
+   
+}
+.pantalla{
+    background-color: #0D0C0C;
+    border: 2px solid  #0F5009;
+}
+.pantalla p{    
+    color: #EA8919;
+}
+.teclado{
+    color: #11F011;
+    font-family: "Orbitron"; 
+    display: flex;
+    display: inline-block;
+    
+}
+.teclado button{
+    background-color:#11F011;
+    border: 1px solid  #EA8919;
+    width: 50px;
+}
