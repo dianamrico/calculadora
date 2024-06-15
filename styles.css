@@ -71,3 +71,8 @@ button:hover{
     background-color: #eba351;
     border: 1.5px solid  #11F011;
 }
+
+.pantalla:hover{
+    background-color: rgba(224, 224, 224, 0.007);
+    filter: brightness(3);
+}
